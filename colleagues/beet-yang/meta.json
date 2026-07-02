@@ -1,0 +1,60 @@
+{
+  "name": "比特羊",
+  "english_name": "Beet Yang",
+  "slug": "beet-yang",
+  "created_at": "2026-07-02T00:00:00+08:00",
+  "updated_at": "2026-07-02T00:00:00+08:00",
+  "version": "v3",
+  "profile": {
+    "company": "未明确公开",
+    "level": "毕业约4年",
+    "role": "科技自媒体从业者",
+    "gender": "未提供",
+    "mbti": "未提供"
+  },
+  "public_identities": {
+    "site": "https://beet.select/",
+    "telegram": "@BeetMan",
+    "x_twitter": "@Beet_Yang",
+    "github": "BeetMan",
+    "xiaohongshu_douyin": "beetyang",
+    "weibo": "https://weibo.com/u/1794658661"
+  },
+  "crawl_summary": {
+    "source": "Telegram Desktop export plus https://beet.select/ pagination",
+    "sample_count": 11027,
+    "first_post_id": "4",
+    "first_post_datetime": "2020-07-04T19:35:10+08:00",
+    "last_post_id": "17908",
+    "last_post_datetime": "2026-07-02T10:50:48+08:00",
+    "pages_read": 63,
+    "raw_sources_public": false,
+    "notes": "Telegram Desktop HTML export parsed 11027 messages across 2020-2026, including 2583 messages from 2023. Raw exports and full-text crawled JSON files are intentionally excluded from the public repository."
+  },
+  "tags": {
+    "personality": [
+      "短句反应",
+      "吐槽型判断",
+      "实测优先",
+      "保留不确定性",
+      "价格敏感",
+      "导购阈值明确"
+    ],
+    "culture": [
+      "科技自媒体",
+      "AI与消费电子雷达",
+      "线下摸机",
+      "开源小工具",
+      "链接流和截图注释",
+      "好价与购买建议"
+    ]
+  },
+  "impression": "公开表达更像一个长期运行的产品雷达：早期强导购和好价阈值，后期扩展到 AI、硬件、线下摸机和小工具；短、快、具体，常用截图、链接、价格、SKU、实测感受和一句吐槽完成判断；对没验证的内容会保留 caveat。",
+  "knowledge_sources": [
+    "https://beet.select/",
+    "Telegram Desktop export provided by the site/channel owner on 2026-07-02; raw export excluded from public repo",
+    "用户提供信息：在科技自媒体工作，刚毕业约4年",
+    "用户提供信息：微博 https://weibo.com/u/1794658661，目前未能稳定读取正文"
+  ],
+  "corrections_count": 0
+}
