@@ -1,0 +1,13 @@
+# OS/editor noise
+Thumbs.db
+.DS_Store
+*.tmp
+*.log
+
+# Future bulky raw exports. Keep curated/committed evidence files explicit.
+exports/
+raw/
+*.zip
+
+# Do not publish raw message exports or crawled full-text corpora.
+colleagues/*/knowledge/
